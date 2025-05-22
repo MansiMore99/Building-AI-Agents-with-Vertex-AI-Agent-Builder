@@ -97,7 +97,7 @@ We’ve added a sample `wakanda.txt` in the **Data** folder. To hook it into you
 3. Point your Agent Builder to that bucket—now your agent can reference the text!
 
 ```text
-Repository/Data/wakanda.txt
+https://github.com/MansiMore99/Building-AI-Agents-with-Vertex-AI-Agent-Builder.git/Data/wakanda.txt
 ```
 ---
 
@@ -119,15 +119,19 @@ Have feedback, questions, or want to contribute? Feel free to reach out or fork 
 <a href="https://www.linkedin.com/in/mansimore9/">
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
+
 <a href="https://github.com/MansiMore99">
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </a>
+
 <a href="https://medium.com/@mansi.more943">
   ![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)
 </a>
+
 <a href="https://x.com/MansiMore99">
   ![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 </a>
+
 <a href="https://www.youtube.com/@tech_girl-m9">
   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 </a>
