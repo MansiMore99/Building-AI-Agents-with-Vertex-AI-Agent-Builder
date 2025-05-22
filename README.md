@@ -15,6 +15,6 @@ This project will guide you through building AI Agents with Google Cloud's Verte
 ---
 
 
-Check out the cool launch from Google I/O 2025: Agent Mode in the Gemini app, is! It’s like a super assistant that takes on tasks for you. Apartment hunting? 🏠 Boom, it’ll filter listings and even schedule viewings. Need dinner ideas? It can grab recipes and order groceries. Basically, it’s your proactive AI sidekick 💪.
+Check out the cool launch from Google I/O 2025: **Agent Mode** in the Gemini app, is! It’s like a super assistant that takes on tasks for you. Apartment hunting? 🏠 Boom, it’ll filter listings and even schedule viewings. Need dinner ideas? It can grab recipes and order groceries. Basically, it’s your proactive AI sidekick 💪.
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Play-red?logo=youtube)](https://youtu.be/ofFR2bZY0i8?si=8rUfJ7ePXErVgskR)
