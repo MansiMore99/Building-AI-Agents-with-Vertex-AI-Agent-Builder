@@ -1,20 +1,8 @@
-<h1 align="center">🤖 Building AI Agents with GOOGLE Vertex AI </h1>
+<h1 align="center"> Building AI Agents with GOOGLE Vertex AI </h1>
 
 <p align="center">
 This project will guide you through building AI Agents with Google Cloud's Vertex AI Agent Builder. Each step will highlight a specific Agent Builder feature and explain its purpose.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-blue" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-brightgreen" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange" />
-</p>
-
-<img width="1467" alt="Screenshot 2025-05-22 at 2 34 58 PM" src="https://github.com/user-attachments/assets/003f0645-bf7d-4dce-b635-45d17e8394a9" />
-
----
-
-<h1 align="center">🤖 Building AI Agents with GOOGLE Vertex AI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-blue" alt="Google Cloud" />
@@ -37,8 +25,7 @@ This project will guide you through building AI Agents with Google Cloud's Verte
 3. [Agent Mode Spotlight](#agent-mode-spotlight)  
 4. [Step-by-Step Codelab](#step-by-step-codelab)  
 5. [Data Store Setup](#data-store-setup)  
-6. [Similar Projects & Resources](#similar-projects--resources)  
-7. [Watch on YouTube](#watch-on-youtube)
+6. [Similar Projects & Resources](#similar-projects--resources)
 
 ---
 
@@ -47,16 +34,19 @@ This project will guide you through building AI Agents with Google Cloud's Verte
 This self‑paced codelab walks you through building AI Agents with Google Cloud’s Vertex AI Agent Builder. Each step shines a spotlight on a key Agent Builder feature and explains its role.
 
 ### Prerequisites
-- Basic familiarity with Generative AI on Google Cloud  
-- Fundamental understanding of AI Agent concepts  
-- (Optional) Experience with Gemini CodeAssist  
+
+- A basic understanding of [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai?hl=en)
+- Fundamental understanding of [AI Agent concepts](https://cloud.google.com/dialogflow/cx/docs/concept/playbook)  
+- Experience with [Gemini CodeAssist](https://codeassist.google/products/business)
 
 ### What You’ll Learn
+
 - Create a simple AI Agent using Vertex AI Agent Builder  
 - Ground your agent with a managed datastore  
 - (Optional) Embed your Agent into a web app  
 
 ### What You’ll Need
+
 - A curious mind 🧠  
 - A computer with stable internet 💻  
 - A Google Cloud project with billing enabled (or Free Tier eligible)  
@@ -83,6 +73,10 @@ Check out the hot new **Agent Mode** launch at Google I/O 2025: a super‑assist
 - Trip planning? ✈️ It crafts day‑by‑day itineraries, books hotels, and finds hidden gems.  
 
 Think of Agent Mode as your always‑on, proactive AI sidekick—ready to handle complex workflows so you can focus on the fun parts!
+
+#### Watch on YouTube:
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Play-red?logo=youtube)](https://youtu.be/ofFR2bZY0i8?si=8rUfJ7ePXErVgskR)
 
 ---
 
@@ -116,12 +110,6 @@ If you enjoyed this walkthrough, check out these related builds:
 - [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/Tz4grh6GTXs?si=PYESvK6-UKZkW5bQ)  
 
 ---
-
-## 7. Watch on YouTube
-
-Catch the full video guide here:
-
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Play-red?logo=youtube)](https://youtu.be/ofFR2bZY0i8?si=8rUfJ7ePXErVgskR)
 
 #### 📬 Let’s Connect
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
