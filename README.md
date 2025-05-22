@@ -113,8 +113,6 @@ If you enjoyed this walkthrough, check out these related builds:
 
 #### 📬 Let’s Connect
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
-
-**Connect me on:**
 Feel free to reach out and follow me on social media:
 
 <p align="center">
